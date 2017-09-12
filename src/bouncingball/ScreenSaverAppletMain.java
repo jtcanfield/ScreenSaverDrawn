@@ -8,7 +8,6 @@ import javax.swing.WindowConstants;
 
 @SuppressWarnings("serial")
 public class ScreenSaverAppletMain extends JFrame  {
-	//	colors[0]=Color.black;
 	Shape rect1 = new SquareShape(50, 50, 50, Color.red);
 	Shape rect2 = new SquareShape(1000, 500, 50, Color.green);
 	Shape rect3 = new SquareShape(50, 600, 50, Color.yellow);
